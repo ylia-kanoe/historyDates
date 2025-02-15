@@ -24,7 +24,7 @@ npm run build
 ## Технологии
 - **React.js**
 - **TypeScript**
--- **Styled-components**
--- **SCSS**
--- **Swiper**
--- **Webpack**
+- **Styled-components**
+- **SCSS**
+- **Swiper**
+- **Webpack**
