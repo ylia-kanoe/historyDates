@@ -4,8 +4,8 @@ module.exports = {
   mode: "development",
   entry: "./src/app.tsx",
   output: {
-    path: path.resolve(__dirname, "./dist"),    
-    publicPath: "/dist/",
+    path: path.resolve(__dirname, "./public"),    
+    publicPath: "/public/",
     filename: "bundle.js"    
   },
   devServer: {
